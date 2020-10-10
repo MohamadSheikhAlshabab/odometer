@@ -1,10 +1,28 @@
-.App {
+Header {
   text-align: center;
+  font-size: larger;
+  color: rebeccapurple;
+  background-color: tan;
+  margin:  0 100px;
+}
+Footer {
+  text-align: center;
+  font-size: larger;
+  color: rebeccapurple;
+  background-color: tan;
+  margin:  0 100px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+Main {
+  text-align: center;
+  font-size: larger;
+  color: tomato;
+  background-color: thistle;
+  margin: 0 100px;
+  padding: 100px;
+}
+Main button{
+  background-color: teal;
 }
 
 @media (prefers-reduced-motion: no-preference) {
